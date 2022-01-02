@@ -1,0 +1,10 @@
+2021-12-19 17:29:31,994 :INFO : test_1 :Reached Home Page
+2021-12-19 17:29:34,543 :INFO : test_1 :Entered Careers Page
+2021-12-19 17:29:35,162 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 17:29:38,785 :INFO : test_1 :Entered Correct Job
+2021-12-19 17:30:50,932 :INFO : test_1 :Reached Home Page
+2021-12-19 17:30:53,498 :CRITICAL : test_1 :Not Correct Careers Page
+2021-12-19 17:33:29,429 :INFO : test_1 :Reached Home Page
+2021-12-19 17:33:34,121 :CRITICAL : test_1 :Not Correct Careers Page
+2021-12-19 18:21:08,933 :INFO : test_1 :Reached Home Page
+2021-12-19 18:21:12,910 :CRITICAL : test_1 :Not Correct Careers Page

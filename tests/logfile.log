@@ -1,0 +1,34 @@
+2021-12-19 16:53:48,768 :INFO : test_1 :Reached Home Page
+2021-12-19 16:53:51,119 :INFO : test_1 :Entered 'Careers'
+2021-12-19 17:10:26,248 :INFO : test_1 :Reached Home Page
+2021-12-19 17:10:29,096 :INFO : test_1 :Entered Careers Page
+2021-12-19 17:10:29,715 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 17:10:33,537 :INFO : test_1 :Entered Correct Job
+2021-12-19 17:11:26,492 :INFO : test_1 :Reached Home Page
+2021-12-19 17:11:29,458 :INFO : test_1 :Entered Careers Page
+2021-12-19 17:11:30,141 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 17:11:34,160 :INFO : test_1 :Entered Correct Job
+2021-12-19 17:12:31,969 :INFO : test_1 :Reached Home Page
+2021-12-19 17:12:34,476 :CRITICAL : test_1 :Not Correct Careers Page
+2021-12-19 17:14:14,447 :INFO : test_1 :Reached Home Page
+2021-12-19 17:14:17,577 :INFO : test_1 :Entered Careers Page
+2021-12-19 17:14:18,222 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 17:14:22,089 :INFO : test_1 :Entered Correct Job
+2021-12-19 17:25:01,115 :CRITICAL : test_1 :Data not filled right
+2021-12-19 17:25:42,528 :CRITICAL : test_1 :Data not filled right
+2021-12-19 17:26:20,040 :INFO : test_1 :Reached Home Page
+2021-12-19 17:26:22,414 :INFO : test_1 :Entered Careers Page
+2021-12-19 17:26:23,024 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 17:26:26,769 :INFO : test_1 :Entered Correct Job
+2021-12-19 18:21:59,169 :INFO : test_1 :Reached Home Page
+2021-12-19 18:22:02,467 :INFO : test_1 :Entered Careers Page
+2021-12-19 18:22:03,105 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 18:22:07,131 :INFO : test_1 :Entered Correct Job
+2021-12-19 19:53:00,195 :INFO : test_1 :Reached Home Page
+2021-12-19 19:53:02,702 :INFO : test_1 :Entered Careers Page
+2021-12-19 19:53:03,312 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 19:53:07,220 :INFO : test_1 :Entered Correct Job
+2021-12-19 19:53:33,856 :INFO : test_1 :Reached Home Page
+2021-12-19 19:53:36,217 :INFO : test_1 :Entered Careers Page
+2021-12-19 19:53:36,837 :INFO : test_1 :Entered Correct Job Section
+2021-12-19 19:53:40,486 :INFO : test_1 :Entered Correct Job
